@@ -13,7 +13,7 @@ import java.util.List;
 @Getter
 @Setter
 @FieldDefaults(level = AccessLevel.PRIVATE)
-@Table(name = "Driver")
+@Table(name = "driver")
 @Builder
 public class Driver {
 

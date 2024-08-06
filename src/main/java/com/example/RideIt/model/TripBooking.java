@@ -45,5 +45,6 @@ public class TripBooking {
     @ManyToOne
     @JoinColumn
     Driver driver;
+
 }
 

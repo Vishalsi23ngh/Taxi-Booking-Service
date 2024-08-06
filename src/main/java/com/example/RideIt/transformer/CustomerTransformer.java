@@ -13,7 +13,6 @@ public class CustomerTransformer {
                 .emailId(customerRequest.getEmail())
                 .address(customerRequest.getAddress())
                 .gender(customerRequest.getGender())
-
                 .build();
     }
 
